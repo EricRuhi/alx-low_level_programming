@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * returns positive if the number is greater than zero,
  * returns negative if the number is less than zero
- * else returns zero.
+ * else returns zero
  * Return: 0
 */
 int main(void)
